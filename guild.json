@@ -1,0 +1,4 @@
+{
+    "class_support" : "THE_DISCORD_CLASS_ID_FOR_TICKETS",
+    "saved_tickets" : "THE_DISCORD_CHANNEL_ID_FOR_OLD_TICKET_LOGS"
+}
