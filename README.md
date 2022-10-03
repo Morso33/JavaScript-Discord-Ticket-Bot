@@ -35,4 +35,8 @@
 
 
 ## Showcase
-
+![createTicket](https://user-images.githubusercontent.com/69962221/193672628-d62bd897-7328-46e1-bbc3-a900b9fda5f3.png)
+### Pressing the button will open a ticket
+![Screenshot 2022-10-03 223752](https://user-images.githubusercontent.com/69962221/193672918-ad30c644-9410-49a5-8714-6abe3960ad62.png)
+### Typing .resolve will bring up a notification asking if the client wants to close the ticket.
+![Screenshot 2022-10-03 224044](https://user-images.githubusercontent.com/69962221/193673552-f330b86e-c9bf-4c31-8cdc-58cffcd9cd29.png)
