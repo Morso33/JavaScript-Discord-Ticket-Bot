@@ -15,6 +15,8 @@
 
 ## Setup:
 ### Create a Discord bot and add it to your server. This is a great tutorial if you are not familiar with this: https://discordpy.readthedocs.io/en/stable/discord.html
+## Allow the following intents here: 
+![Screenshot 2022-10-03 223335](https://user-images.githubusercontent.com/69962221/193672162-d4b2d5a9-e2b1-4e2d-ae72-2491652219fb.png)
 ### Update The bot's token on line 24 (index.js)
 ### Start the bot.
 ## Windows
@@ -30,4 +32,7 @@
 ### Create a new channel in Discord and paste the channel ID into guilds.JSON (saved_tickets)
 ### Create a channel for support and type . (or your own prefix) ticketsystem (example .ticketsystem)
 ### Congratulations, the ticket system is complete.
+
+
+## Showcase
 
