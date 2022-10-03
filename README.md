@@ -21,10 +21,13 @@
 ### Run .bat in the root directory.
 ### -> npm i
 ### -> node .
-##Linux
+## Linux
 ### -> CD to the root directory
 ### -> npm i
 ### -> node .
-##The bot should be operational now. If everything worked you will see "started" in the console.
-###
+## The bot should be operational now. If everything worked you will see "started" in the console.
+### Create a new category in Discord and paste the category ID into guilds.JSON (class_support)
+### Create a new channel in Discord and paste the channel ID into guilds.JSON (saved_tickets)
+### Create a channel for support and type . (or your own prefix) ticketsystem (example .ticketsystem)
+### Congratulations, the ticket system is complete.
 
